@@ -1,4 +1,4 @@
-# wai-website
+# wai - The website
 
 Preview: https://wai-website.netlify.com/
 WAI Website Manual: https://wai-website-theme.netlify.com/overview/
